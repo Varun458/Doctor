@@ -73,7 +73,7 @@ export default function Carousel() {
             <SwiperSlide className="">
               {/* <div>second</div> */}
               <div className="flex items-center justify-evenly relative bg-gradient-radial from-[#DBDCE9] to-[#AAC2FF] mb-[42px]">
-                <div className="flex flex-col ">
+                <div className="flex flex-col pl-4">
                   <h2 className=" text-[48px] font-medium w-[481px] h-[166px] leading-[50px]">
                     Color Therepy
                   </h2>
@@ -95,7 +95,7 @@ export default function Carousel() {
                   </div>
                 </div>
                 <div className="ml-4">
-                  <Image src="/hero2.svg" alt="" width={731} height={543} />
+                  <Image src="/hero2.svg" alt="" width={700} height={543} />
                 </div>
                 <div className="flex flex-col items-center bottom-0 mt-96">
                   <div>
@@ -115,7 +115,7 @@ export default function Carousel() {
             <SwiperSlide className="">
               {/* <div>second</div> */}
               <div className="flex items-center justify-evenly relative bg-gradient-radial from-[#AAFFE0] to-[#70E952] mb-[42px]">
-                <div className="flex flex-col ">
+                <div className="flex flex-col pl-4">
                   <h2 className=" text-[48px] font-medium w-[481px] h-[166px] leading-[50px]">
                     Color Therepy
                   </h2>
@@ -136,7 +136,7 @@ export default function Carousel() {
                   </div>
                 </div>
                 <div className="ml-4">
-                  <Image src="/hero3.svg" alt="" width={731} height={543} />
+                  <Image src="/hero3.svg" alt="" width={731} height={500} />
                 </div>
                 <div className="flex flex-col items-center bottom-0 mt-96">
                   <div>
